@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Lineaction.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\InfinityBug\IB-Unity\Assets\Scripts\World Code\Ewall.cs">
     <Files>
-      <File FileName="Assets\Scripts\Lineaction.cs" Line="6" Column="21" />
+      <File FileName="..\..\InfinityBug\IB-Unity\Assets\Scripts\World Code\Ewall.cs" Line="8" Column="2" />
+      <File FileName="..\..\InfinityBug\IB-Unity\Assets\Scripts\Player code\Playerhealth.cs" Line="53" Column="8" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
